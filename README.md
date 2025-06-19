@@ -58,12 +58,11 @@
 
 ### 🔗 Connect with me:
 
-<p>
-  <img src="https://img.shields.io/badge/🌐 Website-omrajsharma.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-Omraj%20Sharma-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitter-om%20raj%20sharma-blue?style=flat-square&logo=twitter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-omrajatwork@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/mks001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Manish%20Kumar%20Sharma-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mksharma256001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mksharma256001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+<br/>
 
 ---
 
