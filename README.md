@@ -1,7 +1,5 @@
-Hi 👋, I'm Manish Kumar Sharma
-===============================
-
-**A passionate Full Stack & Mobile App Developer from India**
+<h1 align="center">Hi 👋, I'm Manish Kumar Sharma</h1>
+<h3 align="center">A passionate Full Stack & Mobile App Developer from India</h3>
 
 - 💻 I'm currently working as a **Freelancer**
 - 🚀 I specialize in building **Web & Mobile Apps**
@@ -13,7 +11,7 @@ Hi 👋, I'm Manish Kumar Sharma
 
 ---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠️ Tech Stack
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
@@ -40,26 +38,39 @@ Hi 👋, I'm Manish Kumar Sharma
 - 🔧 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode)
- 
+  ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
 
 ---
 
-### Github Status
+## 📊 GitHub Status
+
 ![Manish's github stats](https://github-readme-stats.vercel.app/api?username=Manish123Sharma&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish123Sharma" alt="Manish123Sharma" /></p>
-
----
-
-### Connect with me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mks001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Manish%20Kumar%20Sharma-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:mksharma256001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mksharma256001@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manish123Sharma&theme=highcontrast" alt="GitHub Streak"/>
 </p>
-<br/>
 
 ---
 
-☕ Support
-<p align="center"> <a href="https://www.buymeacoffee.com/manishsharma"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/> </a> </p> <p align="center"> If you like my work or just want to support my journey, a coffee would mean a lot! 💛 </p>
+### 🔗 Connect with me:
+
+<p>
+  <img src="https://img.shields.io/badge/🌐 Website-omrajsharma.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Omraj%20Sharma-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-om%20raj%20sharma-blue?style=flat-square&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-omrajatwork@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+</p>
+
+---
+
+## ☕ Support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/manishsharma">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+<p align="center">
+  If you like my work or just want to support my journey, a coffee would mean a lot! 💛
+</p>
