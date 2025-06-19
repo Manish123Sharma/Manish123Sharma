@@ -59,7 +59,7 @@ Hi 👋, I'm Manish Kumar Sharma
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manish123Sharma&show_icons=true&theme=tokyonight" alt="Manish's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish123Sharma&theme=tokyonight" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Manish123Sharma&theme=tokyonight](https://camo.githubusercontent.com/cda880f3c8043eac574743684866549fe5d787852a9262310cc53bf479dc6741/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d616e697368313233536861726d61267468656d653d746f6b796f6e69676874)" alt="GitHub Streak" />
 </p>
 
 ---
