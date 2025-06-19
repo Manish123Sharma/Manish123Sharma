@@ -66,7 +66,7 @@
 ## ☕ Support
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/manishsharma">
+  <a href="https://buymeacoffee.com/mksharma25s">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
   </a>
 </p>
