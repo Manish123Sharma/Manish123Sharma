@@ -47,6 +47,7 @@ Hi 👋, I'm Manish Kumar Sharma
 
 ### Github Status
 ![Manish's github stats](https://github-readme-stats.vercel.app/api?username=Manish123Sharma&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish123Sharma" alt="Manish123Sharma" /></p>
 
 ---
 
