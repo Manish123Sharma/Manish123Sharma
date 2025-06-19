@@ -15,6 +15,10 @@
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=dart
+)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 
 - 🌐 &nbsp;
