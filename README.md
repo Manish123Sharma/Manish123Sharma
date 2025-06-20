@@ -49,10 +49,10 @@
 ## 📊 GitHub Status
 
 ![Manish's github stats](https://github-readme-stats.vercel.app/api?username=Manish123Sharma&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manish123Sharma&theme=radical" alt="GitHub Streak"/>
+</p> -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manish123Sharma&theme=highcontrast" alt="GitHub Streak"/>
-</p>
 
 ---
 
