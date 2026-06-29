@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Sharma</h1>
 <h3 align="center">A passionate Full Stack & Mobile App Developer from India</h3>
 
-- 💻 I'm currently working as a **Flutter Software Devekoper @Binary Chai**
+- 💻 I'm currently working as a **Software Developer I @Binary Chai**
 - 🚀 I specialize in building **Web & Mobile Apps**
 - 🌱 Currently exploring **clean code practices** and **scalable architecture**
 - 💬 Ask me about **React, React Native, Flutter, Node.js & UI Designing**
